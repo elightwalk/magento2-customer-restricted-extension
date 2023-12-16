@@ -19,7 +19,7 @@ Investing in our customer login extensions opens the door to boosting customer r
 - Enhance chances of customer retention by improving the login experience.
 
 
-Know More Details About the Extension: [Magento 2 customer Login](https://www.elightwalk.com/magento-customer-login.html)
+☞ Know More Details About the Extension: [Magento 2 customer Login](https://www.elightwalk.com/magento-customer-login.html)
 
 
 ## Installation Guide
@@ -42,7 +42,7 @@ php bin/magento c:f
 
 ```
 
-Use Our Guide for Stepwise Installation: [Magento 2 Customer Login](https://www.elightwalk.com/docs/magento/magento-customer-login)
+☞ Use Our Guide for Stepwise Installation: [Magento 2 Customer Login](https://www.elightwalk.com/docs/magento/magento-customer-login)
 
 
 **More Elightwalk Extensions on Github Marketplace**
