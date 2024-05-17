@@ -4,9 +4,9 @@ The Magento Customer Restricted extension enhances the login experience in a Mag
 
 The Magento 2 Customer Restricted extension improves user convenience and security measures during the login process. It contributes to an overall improved shopping experience and can be tailored to the needs of the Magento store. 
 
-A customer login extension for Magento 2 is vital to any online business. It offers advantages such as heightened security, personalized experiences, insights into customer behaviour, and improved user experience.
+A customer Restricted extension for Magento 2 is vital to any online business. It offers advantages such as heightened security, personalized experiences, insights into customer behaviour, and improved user experience.
 
-Investing in our customer Restricted extensions can boost customer retention, revenue increase, and user experience. To stay competitive in the e-commerce business, consider including customer login functionality in your Magento 2 store. 
+Investing in our customer restricted extensions can boost customer retention, revenue increase, and user experience. To stay competitive in the e-commerce business, consider including customer restricted functionality in your Magento 2 store. 
 
 
 ## Highlight Features
