@@ -20,7 +20,7 @@ Investing in our customer restricted extensions can boost customer retention, re
 - Support the latest Magento version v2.4.7.
 
 
-☞ Know More Details About the Extension: [Magento 2 customer Restricted](https://www.elightwalk.com/magento-customer-login.html)
+☞ Know More Details About the Extension: [Magento 2 customer Restricted](https://www.elightwalk.com/magento-customer-login)
 
 
 ## Installation Guide
@@ -47,11 +47,11 @@ Our detailed guide walks you step-by-step through the installation of Magento 2 
 
 **More Elightwalk Extensions on GitHub Marketplace**
 
-☞ [Magento 2 Social Login](https://www.elightwalk.com/magento-social-login.html)
+☞ [Magento 2 Social Login](https://www.elightwalk.com/magento-social-login)
 
-☞ [Magento SMTP](https://www.elightwalk.com/magento-smtp.html)
+☞ [Magento SMTP](https://www.elightwalk.com/magento-smtp)
 
-☞ [Magento Google Xml Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap.html)
+☞ [Magento Google Xml Sitemap](https://www.elightwalk.com/magento-google-xml-sitemap)
 
-☞ [Magento Category Banner](https://www.elightwalk.com/magento-category-banner.html)
+☞ [Magento Category Banner](https://www.elightwalk.com/magento-category-banner)
 
